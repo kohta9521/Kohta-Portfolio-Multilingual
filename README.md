@@ -1,8 +1,6 @@
-# **<div align="center">Hello everyone!!👋👋</div>**  
+# **<div align="center">Kohta Portfolio Site</div>**  
   
-
-### **KOHTA Portfolio site**  
-  
+### **Hello everyone!!👋👋**   
 
 <br/>  
 
