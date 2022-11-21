@@ -7,6 +7,7 @@ function App() {
 
     return (
     <>
+    {/* header */}
     <header className='text-gray-900 border-b border-gray-300'>
         <div className='container flex mx-auto p-5 flex-col md:flex-row items-center'>
             <a href="#" className='font-medium text-gray-900 mb-4 md:mb-0'>
@@ -21,6 +22,36 @@ function App() {
             </nav>
         </div>
     </header>
+
+    {/* hero */}
+    <section>
+
+    </section>
+
+    {/* about */}
+    <section>
+
+    </section>
+
+    {/* skills */}
+    <section>
+
+    </section>
+
+    {/* blog */}
+    <section>
+
+    </section>
+
+    {/* contact */}
+    <section>
+
+    </section>
+
+    {/* footer */}
+    <footer>
+        
+    </footer>
     </>
     )
 }
